@@ -2,7 +2,7 @@ repo_name: emanamr/weather
 report_id: 3bdc88715ae7e95dd0f7f67db2b71fc4
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T09:39:37+00:00'
+timestamp: '2024-01-05T08:12:45+00:00'
 requested_by: emanamr
 provider: github
 branch: main
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/emanamr/weather
   detection_source: Repo Metadata
